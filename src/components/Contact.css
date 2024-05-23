@@ -1,0 +1,15 @@
+.main-div{
+    background-color: #880ed3;
+    height: 100%;
+}
+.heading-contact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    color: white;
+}
+
+.contact-text{
+    color: white;
+}

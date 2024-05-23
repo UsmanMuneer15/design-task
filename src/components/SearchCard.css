@@ -1,0 +1,23 @@
+.search-card-h{
+    display: flex;
+    justify-content: center;
+    font-family: Plus Jakarta Sans;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 52px;
+  text-align: center;
+  
+}
+
+.Search-card-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-card-btn{
+width: 10%;
+height: 40px;
+border: 1 px solid black;
+}
+

@@ -1,0 +1,28 @@
+.setion2-input{
+    margin-top: 5px;
+}
+.section2-btn{
+    width: 100%;
+    background-color: #880ed3;
+}
+.section2-div{
+height: 380px;
+background-color: #f9f7f7;
+border-radius: 5px;
+}
+.pricing{
+    font-size: 12px;
+    margin-top: 3px;
+}
+.h-section2{
+    font-family: Plus Jakarta Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 52px;
+    /* text-align: center; */
+}
+
+.img-secion2{
+    width: 400px;
+}
+
